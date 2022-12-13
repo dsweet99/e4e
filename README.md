@@ -1,5 +1,8 @@
 # Experimentation for engineers
 
+
+[![Experimentation for engineers: From A/B Testing to Bayesian Optimization](https://drive.google.com/uc?export=view&id=1tFYbVd7sLB9MiZmEs2iEWkRkKVU-sdtI)](https://www.manning.com/books/experimentation-for-engineers)
+
 [**Experimentation for engineers: From A/B Testing to Bayesian Optimization**](https://www.manning.com/books/experimentation-for-engineers)
 
 by David Sweet, Manning Publications
