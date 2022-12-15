@@ -1,4 +1,4 @@
-# Experimentation for engineers
+# Experimentation for Engineers
 
 
 [![Experimentation for engineers: From A/B Testing to Bayesian Optimization](https://drive.google.com/uc?export=view&id=1tFYbVd7sLB9MiZmEs2iEWkRkKVU-sdtI)](https://www.manning.com/books/experimentation-for-engineers)
